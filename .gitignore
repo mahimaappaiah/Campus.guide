@@ -1,0 +1,27 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment and secrets
+.env
+.venv/
+env/
+venv/
+
+# Vector database storage
+chroma_db/
+*.db
+*.sqlite3
+
+# Document corpus (downloadable via rebuild_corpus_strict.py)
+docs/*.md
+!docs/SOURCES.md
+docs_excluded/
+
+# IDE / OS specific
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

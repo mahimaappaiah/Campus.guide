@@ -1,0 +1,918 @@
+================================================================================
+MOUNT CARMEL COLLEGE RAG CORPUS VERIFICATION REPORT
+================================================================================
+
+################################################################################
+SECTION 1: DOCUMENT METRICS, PREVIEWS, AND BOILERPLATE ANALYSIS
+################################################################################
+
+--- FILE: anti_drug_policy.md ---
+Character Count: 540
+Line Count:      20
+Boilerplate Line Candidates (count: 5):
+  * **Source URL:** https://mccblr.edu.in/wp-content/uploads/2026/01/Anti-Drug-Cell.pdf
+  * **Retrieval Date:** 2026-10-10
+  * ANTI- DRUG CELL
+  * For any assistance contact :
+  * Anti- Drug Cell,
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - Anti-Drug and Substance Abuse Policy
+
+**Source URL:** https://mccblr.edu.in/wp-content/uploads/2026/01/Anti-Drug-Cell.pdf
+**Retrieval Date:** 2026-10-10
+
+### Section / Page 1
+
+DON'T DRUG YOURSELF DOWN
+SAY NO TO DRUGS
+ANTI- DRUG CELL
+MOUNT CARMEL COLLEGE AUTONOMOUS, BENGALURU
+
+### Section / Page 6
+
+For any assistance contact :
+Anti- Drug Cell,
+Mount Carmel College, Autonomo
+
+[LAST 400 CHARACTERS]:
+ll.pdf
+**Retrieval Date:** 2026-10-10
+
+### Section / Page 1
+
+DON'T DRUG YOURSELF DOWN
+SAY NO TO DRUGS
+ANTI- DRUG CELL
+MOUNT CARMEL COLLEGE AUTONOMOUS, BENGALURU
+
+### Section / Page 6
+
+For any assistance contact :
+Anti- Drug Cell,
+Mount Carmel College, Autonomous, Bengaluru
+Dr. Sindhu Anoop, Dept of Biotechnology 
+Dr. Shylashree G.S, Dept of Psychology 
+Dr.V. Padma, Dept of Nutrition and Dietetics
+
+------------------------------------------------------------
+
+--- FILE: attendance_regulations.md ---
+Character Count: 1815
+Line Count:      42
+Boilerplate Line Candidates (count: 4):
+  * **Source URL:** https://mccblr.edu.in/examination-centre/attendance/
+  * **Retrieval Date:** 2026-10-10
+  * For UG
+  * For PG
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - Attendance Policy and Examination Eligibility
+
+**Source URL:** https://mccblr.edu.in/examination-centre/attendance/
+**Retrieval Date:** 2026-10-10
+
+# Attendance
+
+For UG
+
+- 75% attendance (60% without co-curricular) is mandatory to take up the End Semester Examination (ESE).
+
+- Student with less than 35% attendance each in all the subjects of a semester will have to repeat 
+
+[LAST 400 CHARACTERS]:
+inimum marks for CIA. To be declared PASS in a semester a student must secure:
+
+- 40% in each paper – both in theory & practicals in the ESE as well as
+
+- Have a minimum of 40% (ESE + CIA) for each paper
+
+- Along with a semester average of 50%
+
+- A candidate failing to get a semester average of 50% will be declared fail, even if she has passed with a 40% mark in every paper in that semester.
+
+###
+
+------------------------------------------------------------
+
+--- FILE: code_of_conduct.md ---
+Character Count: 7290
+Line Count:      157
+Boilerplate Line Candidates (count: 24):
+  * **Source URL:** https://mccblr.edu.in/wp-content/uploads/2026/08/Code-of-Conduct-Students-2026-27.pdf
+  * **Retrieval Date:** 2026-10-10
+  * classmates, and friends.
+  * non-teaching staff.
+  * time.
+  * Principal.
+  * of the Principal.
+  * Principal.
+  * DRESS CODE GUIDELINES:
+  * BOYS:
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - Student Code of Conduct and Dress Code Guidelines
+
+**Source URL:** https://mccblr.edu.in/wp-content/uploads/2026/08/Code-of-Conduct-Students-2026-27.pdf
+**Retrieval Date:** 2026-10-10
+
+### Section / Page 1
+
+CODE OF CONDUCT FOR STUDENTS & DRESS CODE GUIDELINES  
+ 
+ 
+The following regulations are applicable and binding on all students across the campus 
+including hostelites 
+
+[LAST 400 CHARACTERS]:
+r 
+duty.  
+-  Students exchanging ID cards amounts to impersonation and is a cognizable 
+offence punishable under law.  
+  
+Management trusts that all students will adhere to the ab ove guidelines and contribute 
+to maintaining the high standards of Mount Carmel College, Autonomous. These rules are 
+designed to ensure a respectful, professional, and disciplined learning environment for 
+everyone.
+
+------------------------------------------------------------
+
+--- FILE: continuous_internal_assessment.md ---
+Character Count: 1505
+Line Count:      42
+Boilerplate Line Candidates (count: 2):
+  * **Source URL:** https://mccblr.edu.in/examination-centre/cia/
+  * **Retrieval Date:** 2026-10-10
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - Continuous Internal Assessment (CIA) Regulations
+
+**Source URL:** https://mccblr.edu.in/examination-centre/cia/
+**Retrieval Date:** 2026-10-10
+
+# Continuous Internal Assessment (CIA)
+
+### First Semester PG CIA October - 2026
+
+### Third Semester PG CIA October - 2026
+
+## Continuous Formative Evaluation/ Internal Assessment:
+
+Total marks for each course shall be based on con
+
+[LAST 400 CHARACTERS]:
+vity | 10% marks | | 10%
+
+| Case Study /Assignment / Field work / Project work etc. | | 10% marks | 10%
+
+| Total | 20% marks | 20% marks | 40% marks
+
+#### Note:
+
+- There shall be no pass minimum in respect of internal assessment marks.
+
+- Internal assessment marks may be recorded separately. A candidate, who has failed or rejected the final result, shall retain the internal assessment marks.
+
+###
+
+------------------------------------------------------------
+
+--- FILE: end_semester_examinations.md ---
+Character Count: 1392
+Line Count:      52
+Boilerplate Line Candidates (count: 2):
+  * **Source URL:** https://mccblr.edu.in/examination-centre/ese/
+  * **Retrieval Date:** 2026-10-10
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - End Semester Examination (ESE) Regulations and Minimum Pass Marks
+
+**Source URL:** https://mccblr.edu.in/examination-centre/ese/
+**Retrieval Date:** 2026-10-10
+
+# End Semester Examinations (ESE)
+
+### UG Regular End Semester Examination Time Table November-2026
+
+### Supplementary End Semester Examination Time Table (SEP, NEP and Non-NEP Batches) 2005-06 to 2025-26 - Nov(202
+
+[LAST 400 CHARACTERS]:
+for subjects without practicals
+
+### End Semester Examination (ESE)
+
+| | Non-NEP Batch | NEP Batch | SEP Batch
+
+| Duration of Theory | 3 Hours | 2 ½ Hours | 3 Hours
+
+| Maximum Marks for Theory | 70 | 60 | 80
+
+### Continuous Internal Assessment (CIA)
+
+| | Non-NEP Batch | NEP Batch | SEP Batch
+
+| For Theory Paper | 30 | 40 | 20
+
+- NEP - National Education Policy
+
+- SEP - State Education Policy
+
+###
+
+------------------------------------------------------------
+
+--- FILE: grievance_redressal_policy.md ---
+Character Count: 5469
+Line Count:      119
+Boilerplate Line Candidates (count: 35):
+  * **Source URL:** https://mccblr.edu.in/wp-content/uploads/2026/01/Grievance-Policy-2024.pdf
+  * **Retrieval Date:** 2026-10-10
+  * MARIA
+  * INTERNAL COMPLAINTS COMMITTEE
+  * GRIEVANCE POLICY
+  * Discipline
+  * Anti-Human
+  * Tratticking Cell
+  * Committee
+  * E mail: mails@mccbir.edu.in
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - Grievance Redressal Mechanism Policy
+
+**Source URL:** https://mccblr.edu.in/wp-content/uploads/2026/01/Grievance-Policy-2024.pdf
+**Retrieval Date:** 2026-10-10
+
+### Section / Page 1
+
+MARIA 
+MOUNT CARMEL COLLEGE, AUTONOMOUS 
+INTERNAL COMPLAINTS COMMITTEE 
+# 58, Palace Road, Bengaluru - 560 052 
+Mount Carmel College, Autonomous is committed to developing and maintaining an 
+
+
+[LAST 400 CHARACTERS]:
+ 
+The comnmittee will formally review all cases and will give a report to the management 
+about the issues attended. 
+"College with Potential for Excellence" UGC 
+College No: +91 80 2226 1759 
+E mail: mails@mccblr.edu.in 
+PRINCIPAL MOUNT CARMEL cOLLEGr 
+AUTONOMOUS 
+58, PALACE ROAD, 
+Re-accredited with AANAAAeRE - 560 032 
+Fax: +91 80 2228 6386., Placement: +91 80 2225 0978 
+Web: www.mccblr.edu.in
+
+------------------------------------------------------------
+
+--- FILE: hostel_regulations.md ---
+Character Count: 1058
+Line Count:      70
+Boilerplate Line Candidates (count: 29):
+  * **Source URL:** https://mccblr.edu.in/infrastructure/hostel/
+  * **Retrieval Date:** 2026-10-10
+  * Hostel - Mount Carmel University Skip to content
+  * Menu
+  * - Administration
+  * - Academics
+  * - Admissions
+  * - CEE
+  * - Travel Desk
+  * - Newsletter
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - Mother Mary Memorial Hostel Rules and Timings
+
+**Source URL:** https://mccblr.edu.in/infrastructure/hostel/
+**Retrieval Date:** 2026-10-10
+
+Hostel - Mount Carmel University Skip to content
+
+Menu
+
+- Administration
+
+- Academics
+
+- Admissions
+
+- CEE
+
+- Travel Desk
+
+- Newsletter
+
+- IQAC
+
+- Annual Report
+
+- Careers
+
+- Logins
+
+- Mandatory Disclosure
+
+- Circular on SEP
+
+- NAAC
+
+-
+
+[LAST 400 CHARACTERS]:
+r private PG accommodations or hostels outside its campus. The college has no association, partnership, or collaboration with external lodging facilities. Students and their guardians are solely responsible for choosing and residing in such accommodations, and the college assumes no liability for any issues, disputes, or arrangements arising from these private establishments.
+
+Click to Apply
+
+###
+
+------------------------------------------------------------
+
+--- FILE: library_guidelines.md ---
+Character Count: 11155
+Line Count:      606
+Boilerplate Line Candidates (count: 106):
+  * **Source URL:** https://mccblr.edu.in/infrastructure/library/
+  * **Retrieval Date:** 2026-10-10
+  * Overview Facilities & Services Collections Activities E-Resources Periodicals Committee & Staff Contact Us Audits and Visits Visitor Count
+  * OPAC
+  * Institutional Repository
+  * Smart e-Library
+  * Separate Library Website
+  * Digital Library
+  * Reprography
+  * Current content
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - Library and Information Centre Rules and Borrowing Guidelines
+
+**Source URL:** https://mccblr.edu.in/infrastructure/library/
+**Retrieval Date:** 2026-10-10
+
+# Library
+
+Overview Facilities & Services Collections Activities E-Resources Periodicals Committee & Staff Contact Us Audits and Visits Visitor Count
+
+## Welcome to the Information and Knowledge Centre
+
+Mount Carmel (D
+
+[LAST 400 CHARACTERS]:
+
+#### Support Staff
+
+- Mr. Anthony Swamy
+
+- Ms. Lilly
+
+- Ms. Sarala
+
+- Mr. Chowrappa
+
+### Contact
+
+Ms. Shobha N.K. M.A., M.L.I.Sc., M.Phil.,NET. Selection Grade Librarian
+
+Phone: 080-22384766
+
+Mail: librarian@mccblr.edu.in
+
+### Address
+
+Mount Carmel (Deemed to be University) # 58, Palace Road, Vasanth Nagar, Bengaluru, Karnataka 560052, India
+
+### Library Audit
+
+### Library Committee Members
+
+###
+
+------------------------------------------------------------
+
+--- FILE: promotion_and_awards.md ---
+Character Count: 892
+Line Count:      32
+Boilerplate Line Candidates (count: 7):
+  * **Source URL:** https://mccblr.edu.in/examination-centre/promotion-awards/
+  * **Retrieval Date:** 2026-10-10
+  * For UG
+  * For PG
+  * - Languages
+  * - Optional Subjects
+  * - Individual Subjects
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - Academic Promotion Criteria and Graduation Awards
+
+**Source URL:** https://mccblr.edu.in/examination-centre/promotion-awards/
+**Retrieval Date:** 2026-10-10
+
+# Promotion & Awards
+
+## Promotion
+
+For UG
+
+- A candidate will be permitted to go to the Fifth Semester provided she has passed overall in 50% of the papers of Part I, II & III of the First and Second Semesters.
+
+For 
+
+[LAST 400 CHARACTERS]:
+der to be eligible for the admission to the III semester.
+
+### Awards
+
+Prizes will be awarded to students who have secured the highest marks overall in:
+
+- Languages
+
+- Optional Subjects
+
+- Individual Subjects
+
+Medals will be awarded to the first three ranks in each course.
+
+Note: The above awards will be given only to students who complete a UG/PG course in the first attempt on Parents Day.
+
+###
+
+------------------------------------------------------------
+
+--- FILE: results_and_revaluation.md ---
+Character Count: 2014
+Line Count:      94
+Boilerplate Line Candidates (count: 30):
+  * **Source URL:** https://mccblr.edu.in/examination-centre/results-revaluation/
+  * **Retrieval Date:** 2026-10-10
+  * Results / Revaluation - Mount Carmel University Skip to content
+  * Menu
+  * - Administration
+  * - Academics
+  * - Admissions
+  * - CEE
+  * - Travel Desk
+  * - Newsletter
+
+[FIRST 400 CHARACTERS]:
+# Mount Carmel College - Results, Photocopy, Revaluation & Challenge Valuation Rules
+
+**Source URL:** https://mccblr.edu.in/examination-centre/results-revaluation/
+**Retrieval Date:** 2026-10-10
+
+Results / Revaluation - Mount Carmel University Skip to content
+
+Menu
+
+- Administration
+
+- Academics
+
+- Admissions
+
+- CEE
+
+- Travel Desk
+
+- Newsletter
+
+- IQAC
+
+- Annual Report
+
+- Careers
+
+- Logins
+
+- Mand
+
+[LAST 400 CHARACTERS]:
+re allowed only a 3-year period, beyond the normal program term to clear the backlog papers and be qualified for the Degree.
+
+The general formula therefore should be as follows:
+
+Time Span to complete the degree = N + 3 years.
+
+*where N stands for the normal or minimum duration (3 years for UG & 2 years for PG) prescribed for the completion of the program – under section 22 of UGC Act, 1956.
+
+###
+
+------------------------------------------------------------
+
+--- FILE: SOURCES.md ---
+Character Count: 6310
+Line Count:      68
+Boilerplate Line Candidates (count: 1):
+  * |---|-------------------|----------------|-------------|---------------------|----------------|
+
+[FIRST 400 CHARACTERS]:
+# Official Document Sources
+
+All documents in this `docs/` directory are copied and extracted directly from the official, publicly accessible website and public PDF repositories of **Mount Carmel College (Autonomous), Bengaluru**.
+
+| # | Document Filename | Official Title | Source Type | Official Public URL | Retrieval Date |
+|---|-------------------|----------------|-------------|----------------
+
+[LAST 400 CHARACTERS]:
+cy, student borrowing privileges, overdue fines, and e-resource access guidelines.
+
+### 10. `hostel_regulations.md`
+- **Title:** Mount Carmel College - Mother Mary Memorial Hostel Rules and Timings
+- **Source URL:** https://mccblr.edu.in/infrastructure/hostel/
+- **Scope:** Hostel admission rules, curfew/gate timings, leave application protocol, visitor guidelines, and resident disciplinary rules.
+
+------------------------------------------------------------
+
+################################################################################
+SECTION 2: PDF-SOURCED DOCUMENTS PAGE COUNT AUDIT
+################################################################################
+File: code_of_conduct.md                  | Total PDF Pages: 4 | Pages with Text: 4 | URL: https://mccblr.edu.in/wp-content/uploads/2026/08/Code-of-Conduct-Students-2026-27.pdf
+File: grievance_redressal_policy.md       | Total PDF Pages: 3 | Pages with Text: 3 | URL: https://mccblr.edu.in/wp-content/uploads/2026/01/Grievance-Policy-2024.pdf
+File: anti_drug_policy.md                 | Total PDF Pages: 6 | Pages with Text: 2 | URL: https://mccblr.edu.in/wp-content/uploads/2026/01/Anti-Drug-Cell.pdf
+
+################################################################################
+SECTION 3: KEY NUMERICAL STRINGS AUDIT IN docs/*.md
+################################################################################
+Total Matches Found: 11
+[attendance_regulations.md:10] (Matched '75%'): - 75% attendance (60% without co-curricular) is mandatory to take up the End Semester Examination (ESE).
+[attendance_regulations.md:16] (Matched '80%'): - Students are required to maintain a minimum attendance of 80% in each paper, for both theory & practicals. Students having less than 80% attendance in a paper will not be eligible to write the End Semester Examination for that paper.
+[attendance_regulations.md:18] (Matched '40%'): - A student having less than 40% class attendance will not be eligible to write even a supplementary exam in that respective paper.
+[attendance_regulations.md:26] (Matched '40%'): - For subjects with practicals, the candidate shall be declared passed only if she secures a minimum of 40% (28 marks out of a maximum marks of 70 / 40 marks out of a maximum of 100 marks) in the End Semester Theory, as well as a minimum of 40% overall, including End Semester Theory and CIA.
+[attendance_regulations.md:28] (Matched '40%'): - The minimum for Pass in the End Semester Practical Examination is 40% (14 marks out of a maximum of 35) as well a minimum of 40% overall, including End Semester Practical and CIA.
+[attendance_regulations.md:34] (Matched '40%'): - 40% in each paper – both in theory & practicals in the ESE as well as
+[attendance_regulations.md:36] (Matched '40%'): - Have a minimum of 40% (ESE + CIA) for each paper
+[attendance_regulations.md:40] (Matched '40%'): - A candidate failing to get a semester average of 50% will be declared fail, even if she has passed with a 40% mark in every paper in that semester.
+[continuous_internal_assessment.md:34] (Matched '40%'): | Total | 20% marks | 20% marks | 40% marks
+[results_and_revaluation.md:70] (Matched '5 working days'): - Request for photocopy/revaluation/challenge valuation by the students should be made to the Controller of Examinations within 5 working days from the date of publishing of results along with the prescribed fee and after revaluation, the higher marks will be considered.
+[results_and_revaluation.md:72] (Matched '25%'): - Students can apply for Revaluation only if they score a minimum 25% marks in the ESE.
+
+################################################################################
+SECTION 4: LIVE WEB PAGE RE-FETCH & CHARACTER COMPARISON
+################################################################################
+
+--- Web Source: attendance_regulations.md ---
+Live URL:             https://mccblr.edu.in/examination-centre/attendance/
+Live Clean Content Len: 61456 chars
+Saved File Char Len:    1814 chars
+First 300 Chars of Live Extracted Content:
+Attendance - Mount Carmel University Skip to content 
+
+Menu 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Report 
+Careers 
+Logins 
+Mandatory Disclosure 
+Circular on SEP 
+NAAC 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Rep
+
+--- Web Source: continuous_internal_assessment.md ---
+Live URL:             https://mccblr.edu.in/examination-centre/cia/
+Live Clean Content Len: 61145 chars
+Saved File Char Len:    1504 chars
+First 300 Chars of Live Extracted Content:
+Continuous Internal Assessment (CIA) - Mount Carmel University Skip to content 
+
+Menu 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Report 
+Careers 
+Logins 
+Mandatory Disclosure 
+Circular on SEP 
+NAAC 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Ne
+
+--- Web Source: end_semester_examinations.md ---
+Live URL:             https://mccblr.edu.in/examination-centre/ese/
+Live Clean Content Len: 60950 chars
+Saved File Char Len:    1391 chars
+First 300 Chars of Live Extracted Content:
+End Semester Examinations (ESE) - Mount Carmel University Skip to content 
+
+Menu 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Report 
+Careers 
+Logins 
+Mandatory Disclosure 
+Circular on SEP 
+NAAC 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newslet
+
+--- Web Source: results_and_revaluation.md ---
+Live URL:             https://mccblr.edu.in/examination-centre/results-revaluation/
+Live Clean Content Len: 61225 chars
+Saved File Char Len:    2013 chars
+First 300 Chars of Live Extracted Content:
+Results / Revaluation - Mount Carmel University Skip to content 
+
+Menu 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Report 
+Careers 
+Logins 
+Mandatory Disclosure 
+Circular on SEP 
+NAAC 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+
+--- Web Source: promotion_and_awards.md ---
+Live URL:             https://mccblr.edu.in/examination-centre/promotion-awards/
+Live Clean Content Len: 60547 chars
+Saved File Char Len:    891 chars
+First 300 Chars of Live Extracted Content:
+Promotion & Awards - Mount Carmel University Skip to content 
+
+Menu 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Report 
+Careers 
+Logins 
+Mandatory Disclosure 
+Circular on SEP 
+NAAC 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+An
+
+--- Web Source: library_guidelines.md ---
+Live URL:             https://mccblr.edu.in/infrastructure/library/
+Live Clean Content Len: 70825 chars
+Saved File Char Len:    11154 chars
+First 300 Chars of Live Extracted Content:
+Library - Mount Carmel University Skip to content 
+
+Menu 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Report 
+Careers 
+Logins 
+Mandatory Disclosure 
+Circular on SEP 
+NAAC 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Report
+
+--- Web Source: hostel_regulations.md ---
+Live URL:             https://mccblr.edu.in/infrastructure/hostel/
+Live Clean Content Len: 60767 chars
+Saved File Char Len:    1057 chars
+First 300 Chars of Live Extracted Content:
+Hostel - Mount Carmel University Skip to content 
+
+Menu 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Report 
+Careers 
+Logins 
+Mandatory Disclosure 
+Circular on SEP 
+NAAC 
+
+Administration 
+Academics 
+Admissions 
+CEE 
+Travel Desk 
+Newsletter 
+IQAC 
+Annual Report 
+
+################################################################################
+SECTION 5: PROJECT CONFIGURATION & DIRECTORY LISTING
+################################################################################
+
+[.gitignore CONTENTS]:
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Vector database storage
+chroma_db/
+*.db
+*.sqlite3
+
+# IDE / OS specific
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+
+[requirements.txt CONTENTS]:
+chromadb>=0.5.0
+pypdf>=4.0.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+pandas>=2.0.0
+requests>=2.31.0
+streamlit>=1.35.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-chroma>=0.1.0
+
+
+[docs/ DIRECTORY LISTING & SIZES]:
+anti_drug_policy.md                      |      560 bytes |      540 chars
+attendance_regulations.md                |     1859 bytes |     1815 chars
+code_of_conduct.md                       |     7507 bytes |     7290 chars
+continuous_internal_assessment.md        |     1547 bytes |     1505 chars
+end_semester_examinations.md             |     1446 bytes |     1392 chars
+grievance_redressal_policy.md            |     5588 bytes |     5469 chars
+hostel_regulations.md                    |     1128 bytes |     1058 chars
+library_guidelines.md                    |    11763 bytes |    11155 chars
+promotion_and_awards.md                  |      924 bytes |      892 chars
+results_and_revaluation.md               |     2110 bytes |     2014 chars
+SOURCES.md                               |     6378 bytes |     6310 chars
+
+################################################################################
+SECTION 6: INGEST.PY LOADER FILTER VERIFICATION
+################################################################################
+Exact code lines in ingest.py filtering out SOURCES.md and README files:
+  Line 04: Explicitly ignores SOURCES.md and README files so only true policy content is embedded.
+  Line 55:         # Explicit Rule Check: Skip SOURCES.md and any README / metadata files
+  Line 56:         if filename.lower() in ("sources.md", "readme.md") or filename.lower().startswith("readme"):
+
+################################################################################
+SECTION 7: PYTEST TEST SUITE EXECUTION
+################################################################################
+============================= test session starts =============================
+platform win32 -- Python 3.13.2, pytest-9.1.1, pluggy-1.6.0
+rootdir: C:\Users\AASTHA\.gemini\antigravity-ide\scratch\rag-portfolio
+plugins: anyio-4.14.1
+collected 5 items
+
+tests\test_core.py .....                                                 [100%]
+
+============================= 5 passed in 24.64s ==============================
+
+
+################################################################################
+SECTION 8: INGEST.PY EXECUTION
+################################################################################
+======================================================================
+Mount Carmel College RAG Knowledge Base Ingestion
+Docs Directory: C:\Users\AASTHA\.gemini\antigravity-ide\scratch\rag-portfolio\docs
+Chunk Size:     1000 characters
+Chunk Overlap:  150 characters
+======================================================================
+
+--- INGESTION SUMMARY ---
+Filename                                 | Chunk Count 
+-------------------------------------------------------
+anti_drug_policy.md                      | 1           
+attendance_regulations.md                | 3           
+code_of_conduct.md                       | 10          
+continuous_internal_assessment.md        | 2           
+end_semester_examinations.md             | 2           
+grievance_redressal_policy.md            | 8           
+hostel_regulations.md                    | 2           
+library_guidelines.md                    | 14          
+promotion_and_awards.md                  | 1           
+results_and_revaluation.md               | 3           
+-------------------------------------------------------
+TOTAL CHUNKS INDEXED                     | 46          
+======================================================================
+
+
+################################################################################
+SECTION 9: SAMPLE TEST QUESTIONS EXECUTION (ask.py)
+################################################################################
+
+>>> QUESTION: What is the minimum attendance required to appear for exams?
+
+[FULL ANSWER]:
+For Undergraduate (UG) students, a minimum of 75% attendance (60% without co-curricular) is mandatory to be eligible to take up the End Semester Examination (ESE). Students with less than 35% attendance in all subjects must repeat the semester. For Postgraduate (PG) students, a minimum of 80% attendance is required in each paper.
+
+[Source: attendance_regulations.md]
+
+[RETRIEVED CHUNKS & SOURCES]:
+  Chunk 1 [Source: attendance_regulations.md] -> First 200 chars: # Mount Carmel College - Attendance Policy and Examination Eligibility  **Source URL:** https://mccblr.edu.in/examination-centre/attendance/ **Retrieval Date:** 2026-10-10  # Attendance  For UG  - 75%
+  Chunk 2 [Source: attendance_regulations.md] -> First 200 chars: lementary exam in that respective paper.  ## Minimum for Pass  ### For UG  - No minimum marks required with respect of Continuous Internal Assessment.  - For subjects with practicals, the candidate sh
+  Chunk 3 [Source: results_and_revaluation.md] -> First 200 chars: hallenge Valuation. Students can also apply for a photocopy of the answer scripts after paying the necessary fees.  ### Exam for Repeaters  ### For UG  - End Semester Supplementary Examination will be
+------------------------------------------------------------
+
+>>> QUESTION: What is the dress code policy?
+
+[FULL ANSWER]:
+Mount Carmel College mandates decent and modest attire for all students across the campus:
+- Boys: Acceptable attire includes formal shirts, formal trousers, jeans, formal/casual shoes, and collared T-shirts without prints/slogans. Prohibited: Round neck/V-neck printed T-shirts, low-waist pants, cargo pants, torn jeans, and colored/untrimmed hair.
+- Girls: Acceptable attire includes Salwar Kameez, Churidar, Long Kurtis, formal shirts, formal trousers, and western formals. Attire must be professional, well-fitted, and modest.
+
+[Source: code_of_conduct.md]
+
+[RETRIEVED CHUNKS & SOURCES]:
+  Chunk 1 [Source: code_of_conduct.md] -> First 200 chars: s are not permitted to wear attire based on religious practices that deviates from  the prescribed dress code.   2. Special Dress Code Requirements:   Certain programs or events may have specific dres
+  Chunk 2 [Source: code_of_conduct.md] -> First 200 chars: ion of the  Principal.   Use of mobiles in classrooms is banned.   Students are not permitted to post any information about the institution and the  staff in media/ social network sites.       B. DR
+  Chunk 3 [Source: code_of_conduct.md] -> First 200 chars: ormal Trousers,  Jeans, Formal or Casual Shoes, Western Formals and Well-Groomed Hair.    Clothing should be professional, well-fitted, and modest.    On specified days (program -wise) students are
+------------------------------------------------------------
+
+>>> QUESTION: What is the capital of France?
+
+[FULL ANSWER]:
+I don't know based on the provided documents.
+
+[RETRIEVED CHUNKS & SOURCES]:
+  Chunk 1 [Source: hostel_regulations.md] -> First 200 chars: # Mount Carmel College - Mother Mary Memorial Hostel Rules and Timings  **Source URL:** https://mccblr.edu.in/infrastructure/hostel/ **Retrieval Date:** 2026-10-10  Hostel - Mount Carmel University Sk
+  Chunk 2 [Source: library_guidelines.md] -> First 200 chars: p  Scientific Research  Bentham Science  Taylor & Francis Open Access Journals  Wiley Open Access  Royal Society  Science Publications  Google Scholar  ### Open Access e-books  American Libraries  Goo
+  Chunk 3 [Source: library_guidelines.md] -> First 200 chars: l Of Fisheries And Aquaculture Sciences  International Journal Of Genetic Engineering And Biotechnology  International Journal Of Plant Bio Technology  International Journal Of Industrial Bio Technolo
+------------------------------------------------------------
